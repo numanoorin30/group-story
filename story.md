@@ -1,1 +1,3 @@
 Once upon a time, a alien and a cowboy met in a coffee shop...
+They quickly realized they shared a love for exotic coffee blends
+from all around the galaxy.
