@@ -1,3 +1,6 @@
-Once upon a time, a alien and a cowboy met in a coffee shop...
-They quickly realized they shared a love for exotic coffee blends
-from all around the galaxy.
+<<<<<<< HEAD
+Once upon a time, a robot and a wizard met in a coffee shop.. Hi, how are you?
+=======
+Once upon a time, a robot and a wizard met in a coffee {new text my teammate added}...
+asdfasdfasdfasdfasdf
+>>>>>>> main 
